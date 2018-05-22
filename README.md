@@ -9,4 +9,4 @@ This is my first project by using Laravel 5.3. This is a food ordering system wi
 + PHP
 + W3.CSS
 
-> This project was done for the Final Year Project of Some Private University as a Freelancer Project
+> This project was done for the First Year Project of some Private University as a Freelancer Project
